@@ -1,0 +1,19 @@
+{
+  "name": "slack_ai_assistent",
+  "version": "1.0.0",
+  "description": "",
+  "privet": true,
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^4.6.0",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "jsdom": "^27.3.0"
+  }
+}
