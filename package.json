@@ -2,7 +2,7 @@
   "name": "slack_ai_assistent",
   "version": "1.0.0",
   "description": "",
-  "privet": true,
+  "private": true,
   "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
